@@ -1,4 +1,4 @@
-## Nice to meet you! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+## Nice to meet you! <img src="https://raw.githubusercontent.com/primayoriko/primayoriko/master/wave.gif" width="30px">
 
 I am Naufal Prima Yoriko, you can call me Naufal, currently pursuing my bachelor's degree majoring in computer science from [Institut Teknologi Bandung](https://itb.ac.id/). I am a tech enthusiast, escecially in Web an dMachine Learning Technologies. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
@@ -32,7 +32,38 @@ I am Naufal Prima Yoriko, you can call me Naufal, currently pursuing my bachelor
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
+## ⚡ Stats
+
+### Trophies
+
+-------
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=primayoriko&margin-w=15&column=7&title=MultiLanguage,Commit,Repositories,Followers)](https://github.com/ryo-ma/github-profile-trophy)
+
+### Activities
+
+-------
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=primayoriko&count_private=true&show_icons=true&include_all_commits=true)
+
+### Top Languages
+
+-------
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=primayoriko&hide=TeX&layout=compact)
 
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=primayoriko)](https://github.com/anuraghazra/github-readme-stats) -->
+
+### Visitors
+
+-------
+
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=primayoriko)
+
+## Other My Featured Repositories
+
+-------
+
+[![Hadoop](https://github-readme-stats.vercel.app/api/pin/?username=primayoriko&repo=hadoop-mapreduce-demo)](https://github.com/primayoriko/hadoop-mapreduce-demo)
+
+[![Hadoop](https://github-readme-stats.vercel.app/api/pin/?username=primayoriko&repo=hadoop-mapreduce-demo)](https://github.com/primayoriko/hadoop-mapreduce-demo)
