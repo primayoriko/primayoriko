@@ -52,6 +52,10 @@ I am Naufal Prima Yoriko, you can call me Naufal, currently pursuing my bachelor
 
 -------
 
+[![Translator](https://github-readme-stats.vercel.app/api/pin/?username=primayoriko&repo=Simple-Sundanese-Translator)](https://github.com/primayoriko/Simple-Sundanese-Translator)
+
 [![Hadoop](https://github-readme-stats.vercel.app/api/pin/?username=primayoriko&repo=hadoop-mapreduce-demo)](https://github.com/primayoriko/hadoop-mapreduce-demo)
+
+[![CP](https://github-readme-stats.vercel.app/api/pin/?username=primayoriko&repo=problem-solving-solution)](https://github.com/primayoriko/problem-solving-solution)
 
 [![NASM-game](https://github-readme-stats.vercel.app/api/pin/?username=primayoriko&repo=NASM-Guess-Game)](https://github.com/primayoriko/NASM-Guess-Game)
