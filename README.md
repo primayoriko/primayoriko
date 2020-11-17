@@ -1,4 +1,4 @@
-## Nice to meet you! <img src="https://raw.githubusercontent.com/primayoriko/primayoriko/master/wave.gif" width="30px">
+## Nice to meet you! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
 I am Naufal Prima Yoriko, you can call me Naufal, currently pursuing my bachelor's degree majoring in computer science from [Institut Teknologi Bandung](https://itb.ac.id/). I am a tech enthusiast, escecially in Web an dMachine Learning Technologies. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
