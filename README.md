@@ -48,7 +48,7 @@ I am Naufal Prima Yoriko, you can call me Naufal, currently pursuing my bachelor
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=primayoriko)
 
-## Other My Featured Repositories
+## My Other Featured Repositories
 
 -------
 
