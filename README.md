@@ -54,4 +54,4 @@ I am Naufal Prima Yoriko, you can call me Naufal, currently pursuing my bachelor
 
 [![Hadoop](https://github-readme-stats.vercel.app/api/pin/?username=primayoriko&repo=hadoop-mapreduce-demo)](https://github.com/primayoriko/hadoop-mapreduce-demo)
 
-[![Hadoop](https://github-readme-stats.vercel.app/api/pin/?username=primayoriko&repo=hadoop-mapreduce-demo)](https://github.com/primayoriko/hadoop-mapreduce-demo)
+[![NASM-game](https://github-readme-stats.vercel.app/api/pin/?username=primayoriko&repo=NASM-Guess-Game)](https://github.com/primayoriko/NASM-Guess-Game)
