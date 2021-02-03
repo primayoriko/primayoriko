@@ -1,6 +1,6 @@
 ## Nice to meet you! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-I am Naufal Prima Yoriko, you can call me Naufal, currently pursuing my bachelor's degree majoring in computer science from [Institut Teknologi Bandung](https://itb.ac.id/). I am a tech enthusiast, escecially in Web, Distributed System, and Machine Learning Technologies. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+I am Naufal Prima Yoriko, you can call me Naufal, currently pursuing my bachelor's degree majoring in computer science from [Institut Teknologi Bandung](https://itb.ac.id/). I am a tech enthusiast, especially in Web Development, Distributed System, and Machine Learning Technologies. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-NaufalPrimaY-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/naufal-prima-yoriko-799622a8/)](https://www.linkedin.com/in/naufal-prima-yoriko-799622a8/)
 [![Instagram Badge](https://img.shields.io/badge/-primayoriko-purple?logo=instagram&logoColor=white&link=https://instagram.com/primayoriko/)](https://instagram.com/primayoriko)
