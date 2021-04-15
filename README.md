@@ -69,7 +69,7 @@ I am Naufal Prima Yoriko, you can call me Naufal, currently pursuing my bachelor
 <tr>
 <td>
 
-[![Scratch-Web](https://github-readme-stats.vercel.app/api/pin/?username=primayoriko&repo=scratch-web-collection)](https://github.com/primayoriko/scratch-web-collection)
+[![Scratch-Web](https://github-readme-stats.vercel.app/api/pin/?username=primayoriko&repo=scratch-website-collection)](https://github.com/primayoriko/scratch-website-collection)
 
 </td>
 <td>
