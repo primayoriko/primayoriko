@@ -59,12 +59,12 @@ I am Naufal Prima Yoriko, you can call me Naufal, currently pursuing my bachelor
 <tr>
 <td>
 
-[![Spring-API](https://github-readme-stats.vercel.app/api/pin/?username=primayoriko&repo=spring-office-api)](https://github.com/primayoriko/spring-office-api)
+[![Android-Node-App](https://github-readme-stats.vercel.app/api/pin/?username=primayoriko&repo=android-note-app)](https://github.com/primayoriko/android-note-app)
 
 </td>
 <td>
 
-[![Translator-Web](https://github-readme-stats.vercel.app/api/pin/?username=primayoriko&repo=indo-sundanese-translator)](https://github.com/primayoriko/indo-sundanese-translator)
+[![Flutter-Tour-App](https://github-readme-stats.vercel.app/api/pin/?username=primayoriko&repo=tour-place-app)](https://github.com/primayoriko/tour-place-app)
 
 </td>
 </tr>
@@ -72,12 +72,25 @@ I am Naufal Prima Yoriko, you can call me Naufal, currently pursuing my bachelor
 <tr>
 <td>
 
-[![Scratch-Web](https://github-readme-stats.vercel.app/api/pin/?username=primayoriko&repo=scratch-website-collection)](https://github.com/primayoriko/scratch-website-collection)
+[![Sorting-Web](https://github-readme-stats.vercel.app/api/pin/?username=primayoriko&repo=sorting-animation-web)](https://github.com/primayoriko/sorting-animation-web)
 
 </td>
 <td>
 
-[![JAX-WS](https://github-readme-stats.vercel.app/api/pin/?username=primayoriko&repo=web-service-factory)](https://github.com/primayoriko/web-service-factory)
+[![Tanks-Extended-Game](https://github-readme-stats.vercel.app/api/pin/?username=primayoriko&repo=tanks-extended-game)](https://github.com/primayoriko/tanks-extended-game)
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+[![Translator-Web](https://github-readme-stats.vercel.app/api/pin/?username=primayoriko&repo=indo-sundanese-translator)](https://github.com/primayoriko/indo-sundanese-translator)
+
+</td>
+<td>
+
+[![Scratch-Web](https://github-readme-stats.vercel.app/api/pin/?username=primayoriko&repo=scratch-website-collection)](https://github.com/primayoriko/scratch-website-collection)
 
 </td>
 </tr>
